@@ -14,7 +14,7 @@ Medium.
 
 *****
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/mpgUepSsuAMdpQbEST7TWH6T/rstacruz/nprogress'>  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/mpgUepSsuAMdpQbEST7TWH6T/rstacruz/nprogress.svg' /></a>
+
 
 *****
 
